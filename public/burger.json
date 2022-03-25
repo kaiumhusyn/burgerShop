@@ -1,0 +1,11 @@
+[
+    {"id":1, "name": "Lentil and Mushroom Burger", "price":250, "picture": "https://ibb.co/tzgDWB1"},
+    {"id":2, "name": "Stuffed Bean Burger", "price":350, "picture": "https://ibb.co/XF4WpM4"},
+    {"id":3, "name": "Lamb Burger with Radish Slaw", "price":450, "picture": "https://ibb.co/0hn1G7n"},
+    {"id":4, "name": "Potato Corn Burger", "price":550, "picture": "https://ibb.co/6t7fRzS"},
+    {"id":5, "name": "Supreme Veggie Burger", "price":650, "picture": "https://ibb.co/9gZVL32"},
+    {"id":6, "name": "Butter Chicken Twin Burgers", "price":380, "picture": "https://ibb.co/G2r1qCK"},
+    {"id":7, "name": "Rajma Patty Burger", "price":950, "picture": "https://ibb.co/Nj2YLQY"},
+    {"id":8, "name": "Pizza Burger", "price":390, "picture": "https://ibb.co/LRfRQFf"},
+    {"id":9, "name": "American Burger", "price":180, "picture": "https://ibb.co/ScXF75R"}
+]
