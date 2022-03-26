@@ -32,12 +32,15 @@ const Shop = () => {
                          handleAddToCart={handleAddToCart}
                          ></Product>)
                 }
+               
 
             </div>
             <div className="cart-container">
                 <Cart cart={cart} cleaner={cleanCart}></Cart>
             </div>
+
         </div>
+        
     );
 };
 
