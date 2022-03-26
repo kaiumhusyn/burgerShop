@@ -1,11 +1,11 @@
 [
-    {"id":1, "name": "Lentil and Mushroom Burger", "price":2.5, "img": "https://i.ibb.co/pbHSyqf/lental.png"},
-    {"id":2, "name": "Stuffed Bean Burger", "price":3, "img": "https://i.ibb.co/17mMcJD/bean.jpg"},
-    {"id":3, "name": "Lamb Burger with Radish Slaw", "price":4.20, "img": "https://i.ibb.co/p3K3LpL/lamb.jpg"},
-    {"id":4, "name": "Potato Corn Burger", "price":2, "img": "https://i.ibb.co/JK0vhj7/corn.jpg"},
-    {"id":5, "name": "Supreme Veggie Burger", "price":5, "img": "https://i.ibb.co/Dzfpyhz/veg.jpg"},
-    {"id":6, "name": "Butter Chicken Twin Burgers", "price":4.10, "img": "https://i.ibb.co/1mBPzkB/butter-chicken.jpg"},
-    {"id":7, "name": "Rajma Patty Burger", "price":4, "img": "https://i.ibb.co/FzmkhpS/ramja.jpg"},
-    {"id":8, "name": "Pizza Burger", "price":2.20, "img": "https://i.ibb.co/8PstVVt/pizza.jpg"},
-    {"id":9, "name": "American Burger", "price":1, "img": "https://i.ibb.co/HtW69fq/american.jpg"}
+    {"id":1, "name": "Lentil and Mushroom Burger", "price":2.5, "Rating": 3.1, "img": "https://i.ibb.co/pbHSyqf/lental.png"},
+    {"id":2, "name": "Stuffed Bean Burger", "price":3, "Rating": 4, "img": "https://i.ibb.co/17mMcJD/bean.jpg"},
+    {"id":3, "name": "Lamb Burger with Radish Slaw", "price":4.20,"Rating": 2, "img": "https://i.ibb.co/p3K3LpL/lamb.jpg"},
+    {"id":4, "name": "Potato Corn Burger", "price":2, "Rating": 4.2, "img": "https://i.ibb.co/JK0vhj7/corn.jpg"},
+    {"id":5, "name": "Supreme Veggie Burger", "price":5, "Rating": 3, "img": "https://i.ibb.co/Dzfpyhz/veg.jpg"},
+    {"id":6, "name": "Butter Chicken Twin Burgers", "price":4.10, "Rating": 4.5, "img": "https://i.ibb.co/1mBPzkB/butter-chicken.jpg"},
+    {"id":7, "name": "Rajma Patty Burger", "price":4, "Rating": 5, "img": "https://i.ibb.co/FzmkhpS/ramja.jpg"},
+    {"id":8, "name": "Pizza Burger", "price":2.20, "Rating": 3, "img": "https://i.ibb.co/8PstVVt/pizza.jpg"},
+    {"id":9, "name": "American Burger", "price":1, "Rating": 4.7, "img": "https://i.ibb.co/HtW69fq/american.jpg"}
 ]
